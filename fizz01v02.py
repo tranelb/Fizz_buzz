@@ -5,8 +5,8 @@ print "fizz buzz counting up to " + m
 for x in range(1,t):
 #    if x%3 != 0:
     if x%3 == 0:
-        print "fizz"
+        print "fizzy"
     elif x%5 == 0:
-        print "buzz"
+        print "buzzy"
     else:
         print x
